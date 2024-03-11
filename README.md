@@ -3,6 +3,9 @@
 Image Uploader is a Spring Boot application that provides a service for uploading images to AWS S3. It is built with Java 17, Spring Boot, AWS S3, and PostgreSQL.
 
 ## Overview
+
+https://github.com/nerdxio/image-uploader/assets/76957887/be69a19c-d744-4bff-b44f-3afe09cd91fb
+
 ## Features
 
 - **Image Upload**: Accepts an image from the client, uploads it to AWS S3, and returns the image URL to the client.
